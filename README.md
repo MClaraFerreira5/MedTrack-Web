@@ -249,7 +249,7 @@ O **MedTrack Mobile** é o aplicativo Android que se integra perfeitamente com a
 <table>
   <tr>
     <td align="center">
-        <img src="https://github.com/ygoramaral.png" width="100px;" alt="Prof. Igor Amaral"/><br />
+        <img src="https://github.com/ygoramaral.png" width="100px;" alt="Prof. Ygor Amaral"/><br />
         <sub><b>Prof. Igor Amaral</b></sub>
       <br />
       <a href="https://github.com/ygoramaral">
